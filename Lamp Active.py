@@ -1,6 +1,8 @@
 import serial
 import time
 
+rxpin = 2
+txpin = 3
 
 print('type H to turn the lamp on')
 print('type L to turn the lamp off')
